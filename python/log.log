@@ -1,0 +1,40 @@
+2025-10-31 10:44:23,445 - my_app - INFO - Application started.
+2025-10-31 10:44:23,453 - my_app - INFO - Application finished.
+2025-10-31 10:44:53,963 - my_app - INFO - Application started.
+2025-10-31 10:44:53,967 - my_app - INFO - Application finished.
+2025-10-31 10:54:19,427 - my_app - INFO - Application started.
+2025-10-31 10:54:19,427 - my_app - INFO - CSV file 'Sales_raw.csv' correctly read
+2025-10-31 10:54:19,428 - my_app - INFO - Application finished.
+2025-10-31 10:59:53,775 - my_app - INFO - Application started.
+2025-10-31 10:59:53,776 - my_app - INFO - CSV file 'Sales_raw.csv' correctly read
+2025-10-31 10:59:53,777 - my_app - INFO - Application finished.
+2025-10-31 11:06:54,336 - my_app - INFO - Application started.
+2025-10-31 11:06:54,337 - my_app - INFO - CSV file 'Sales_raw.csv' correctly read
+2025-10-31 11:07:47,261 - my_app - INFO - Application started.
+2025-10-31 11:07:47,262 - my_app - INFO - CSV file 'Sales_raw.csv' correctly read
+2025-10-31 11:30:14,238 - my_app - INFO - Application started.
+2025-10-31 11:30:14,240 - my_app - INFO - CSV file 'Sales_raw.csv' correctly read
+2025-10-31 11:40:01,693 - my_app - INFO - Application started.
+2025-10-31 11:40:13,175 - my_app - INFO - Application started.
+2025-10-31 11:40:13,199 - my_app - INFO - Application finished.
+2025-10-31 12:17:42,258 - my_app - INFO - Application started.
+2025-10-31 12:19:21,662 - my_app - INFO - Application started.
+2025-10-31 12:23:28,504 - my_app - INFO - Application started.
+2025-10-31 12:23:35,613 - my_app - INFO - Application started.
+2025-10-31 12:23:35,613 - my_app - INFO - Application finished.
+2025-10-31 12:32:47,783 - my_app - INFO - Application started.
+2025-10-31 12:32:47,784 - my_app - INFO - Application finished.
+2025-10-31 12:32:57,099 - my_app - INFO - Application started.
+2025-10-31 12:34:16,131 - my_app - INFO - Application started.
+2025-10-31 12:41:22,513 - my_app - INFO - Application started.
+2025-10-31 12:42:47,363 - my_app - INFO - Application started.
+2025-10-31 12:42:47,379 - my_app - INFO - Application finished.
+2025-10-31 12:54:09,372 - my_app - INFO - Application started.
+2025-10-31 12:54:09,374 - my_app - INFO - CSV file 'sales.csv' correctly read
+2025-10-31 12:54:37,463 - my_app - INFO - Application started.
+2025-10-31 12:54:37,464 - my_app - INFO - CSV file 'sales.csv' correctly read
+2025-10-31 12:56:33,656 - my_app - INFO - Application started.
+2025-10-31 12:56:33,656 - my_app - INFO - CSV file 'sales.csv' correctly read
+2025-10-31 12:59:27,271 - my_app - INFO - Application started.
+2025-10-31 13:02:55,569 - my_app - INFO - Application started.
+2025-10-31 13:02:55,689 - my_app - INFO - Application finished.
